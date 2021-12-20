@@ -1,0 +1,8 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/6ixti3rii/oi/main/Aimlock%20reupload'))
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/6ixti3rii/oi/main/aimaim'))()
+while true do
+wait(5)
+print ("xxzx#0004 was here lol")
+print("discord.gg/hRbTfHxVX7")
+end
