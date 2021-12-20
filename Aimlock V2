@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/6ixti3rii/oi/main/Aimlock%20reupload'))
+loadstring(game:HttpGet('https://raw.githubusercontent.com/6ixti3rii/oi/main/aimfixed'))()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/6ixti3rii/oi/main/aimaim'))()
 while true do
